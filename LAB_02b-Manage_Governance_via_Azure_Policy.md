@@ -21,3 +21,14 @@ Diagram of the task architecture.
 <img width="1611" height="799" alt="image" src="https://github.com/user-attachments/assets/c4abe2b0-d016-483d-850c-2f7506dbfe8a" />
 
 # Task 3: Apply tagging via an Azure policy
+
+<img width="1657" height="659" alt="image" src="https://github.com/user-attachments/assets/be226bcc-5e98-45e0-8df5-965b163b224f" />
+
+<img width="1673" height="665" alt="image" src="https://github.com/user-attachments/assets/55144a8f-0655-478e-accd-718abdd8fcc6" />
+
+
+# Task 4: Configure and test resource locks
+<img width="1669" height="465" alt="image" src="https://github.com/user-attachments/assets/1b0b0faf-876f-4030-be02-c84991703a5d" />
+
+<img width="1671" height="563" alt="image" src="https://github.com/user-attachments/assets/6f2273ef-5913-46f4-aa16-5a04dbb651ce" />
+
